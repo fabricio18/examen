@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class examen {
 	public static void main(String[] args) {
-		// codigos que aprendimos con el ingeniero
-	     
+		// se uso switch para hacer o tener desiciones multiples
 		Scanner s= new Scanner(System.in);
 		System.out.print("Con cuantas Estrellas Califica esta Pelicula 1 a 5: ");
 		int num = s.nextInt();
