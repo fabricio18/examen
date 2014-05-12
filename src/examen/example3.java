@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class example3 {
 
 	public static void main(String[] args) {
-		// codigos utilizados in class 
+		//  codigos utilizados in class en este caso se utilizo el else para indicar las alternativas del programa
 		
 		Scanner s = new Scanner(System.in);
 		System.out.print("Escriba numero 1: ");
