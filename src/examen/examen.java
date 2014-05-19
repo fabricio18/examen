@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class examen {
 	public static void main(String[] args) {
 		// se uso switch para hacer o tener desiciones multiples
+	informacion obtenida de:https://github.com/IvethS/Examen/blob/master/src/Ejercicio1.java
 		Scanner s= new Scanner(System.in);
 		System.out.print("Con cuantas Estrellas Califica esta Pelicula 1 a 5: ");
 		int num = s.nextInt();
