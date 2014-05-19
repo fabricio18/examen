@@ -4,7 +4,7 @@ public class example3 {
 
 	public static void main(String[] args) {
 		//  codigos utilizados in class en este caso se utilizo el else para indicar las alternativas del programa
-		
+		//Informacion obtenida de:https://github.com/IvethS/Examen/blob/master/src/Ejercicio3.java
 		Scanner s = new Scanner(System.in);
 		System.out.print("Escriba numero 1: ");
 		int num1 = s.nextInt();
